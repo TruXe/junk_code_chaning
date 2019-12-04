@@ -1,0 +1,9 @@
+C:\Users\KaeexS\source\repos\junkcode_chaning\junkcode_chaning\bin\Debug\junkcode_chaning.exe.config
+C:\Users\KaeexS\source\repos\junkcode_chaning\junkcode_chaning\bin\Debug\junkcode_chaning.exe
+C:\Users\KaeexS\source\repos\junkcode_chaning\junkcode_chaning\bin\Debug\junkcode_chaning.pdb
+C:\Users\KaeexS\source\repos\junkcode_chaning\junkcode_chaning\obj\Debug\junkcode_chaning.csprojAssemblyReference.cache
+C:\Users\KaeexS\source\repos\junkcode_chaning\junkcode_chaning\obj\Debug\junkcode_chaning.Form1.resources
+C:\Users\KaeexS\source\repos\junkcode_chaning\junkcode_chaning\obj\Debug\junkcode_chaning.Properties.Resources.resources
+C:\Users\KaeexS\source\repos\junkcode_chaning\junkcode_chaning\obj\Debug\junkcode_chaning.csproj.GenerateResource.cache
+C:\Users\KaeexS\source\repos\junkcode_chaning\junkcode_chaning\obj\Debug\junkcode_chaning.exe
+C:\Users\KaeexS\source\repos\junkcode_chaning\junkcode_chaning\obj\Debug\junkcode_chaning.pdb
